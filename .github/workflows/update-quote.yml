@@ -3,7 +3,7 @@ name: Update README with Random Dev Quote
 on:
   schedule:
     - cron: '0 8 * * *'   # Runs every day at 08:00 UTC
-  workflow_dispatch:       # Lets you run it manually too
+  workflow_dispatch:       # Lets you run it manually
 
 jobs:
   build:
@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
 
       - name: Get random quote
         run: |
