@@ -72,7 +72,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayesha-rauf-7a695a2a4/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </p>
 
