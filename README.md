@@ -60,6 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
+> "Motivation gets you going and habit gets you there.   — Zig Ziglar"
 <!--END_SECTION:quote-->
 
 
