@@ -9,7 +9,7 @@
 - 🎯 I’m currently improving my skills in **Data Science** and **Machine Learning**  
 - 🌱 Constantly learning **Python, Pandas, NumPy, Scikit-Learn, and TensorFlow**  
 - 🔧 Turning raw data 📊 into meaningful insights and ML models  
-- ✉️ Reach me at: *your.email@example.com*  
+- ✉️ Reach me at: *ayesha.ma711@gmail.com*  
 - ⚡ Fun Fact: *Data is the new oil, but it needs refining!* ⛽
 
 ---
@@ -19,7 +19,7 @@
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![R](https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=276DC3)
+![react](https://img.shields.io/badge/-React-61DAFB?logoColor=black&style=flat&logo=react)
 
 **Data Science & ML:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
@@ -40,12 +40,12 @@
 
 ### 📊 GitHub & Kaggle Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+<p style={{display:"flex"}}>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-002&show_icons=true&theme=synthwave&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-002&layout=compact&theme=cobalt" alt="Top Languages" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-002&theme=tokyonight" alt="GitHub Streak" />
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayesharauf71)
 
