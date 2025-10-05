@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. — Nicolas Chamfort"
+> "If you want to know what God thinks about money just look at the people He gives it to. — Alexander Pope"
 <!--END_SECTION:quote-->
 
 
