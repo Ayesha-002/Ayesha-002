@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about. — Franklin D. Roosevelt"
+> "Happiness depends upon ourselves. — Aristotle"
 <!--END_SECTION:quote-->
 
 
