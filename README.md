@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness depends upon ourselves. — Aristotle"
+> "There are no limitations to the mind except those we acknowledge... — Napoleon Hill"
 <!--END_SECTION:quote-->
 
 
