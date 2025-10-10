@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There are no limitations to the mind except those we acknowledge... — Napoleon Hill"
+> "Knowledge has to be improved, challenged, and increased constantly, or it vanishes. — Peter Drucker"
 <!--END_SECTION:quote-->
 
 
