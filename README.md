@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Knowledge has to be improved, challenged, and increased constantly, or it vanishes. — Peter Drucker"
+> "Turn off your mind, relax, and float downstream. — John Lennon"
 <!--END_SECTION:quote-->
 
 
