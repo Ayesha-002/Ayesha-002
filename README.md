@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Turn off your mind, relax, and float downstream. — John Lennon"
+> "Growth is in a series of mistakes. That's the only way you learn. — Steve Harvey"
 <!--END_SECTION:quote-->
 
 
