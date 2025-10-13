@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Growth is in a series of mistakes. That's the only way you learn. — Steve Harvey"
+> "People think you're crazy if you talk about things they don't understand. — Elvis Presley"
 <!--END_SECTION:quote-->
 
 
