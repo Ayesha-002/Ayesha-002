@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "People think you're crazy if you talk about things they don't understand. — Elvis Presley"
+> "There is no way to happiness - happiness is the way. — Thich Nhat Hanh"
 <!--END_SECTION:quote-->
 
 
