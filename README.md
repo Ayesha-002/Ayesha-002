@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is our experiences that mold us into who we are...during times of adversity our true character will show. — Unknown"
+> "If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. — Steve Maraboli"
 <!--END_SECTION:quote-->
 
 
