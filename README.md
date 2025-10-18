@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. — Steve Maraboli"
+> "Take away love and our earth is a tomb. — Robert Browning"
 <!--END_SECTION:quote-->
 
 
