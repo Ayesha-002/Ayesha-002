@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Take away love and our earth is a tomb. — Robert Browning"
+> "If you always do what you've always done, you'll always get what you've always got.  — Henry Ford"
 <!--END_SECTION:quote-->
 
 
