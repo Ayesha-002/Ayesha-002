@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you always do what you've always done, you'll always get what you've always got.  — Henry Ford"
+> "Failure is not fatal, but failure to change might be. — John Wooden"
 <!--END_SECTION:quote-->
 
 
