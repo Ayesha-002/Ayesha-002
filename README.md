@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Failure is not fatal, but failure to change might be. — John Wooden"
+> "Many a man has failed because he had his wishbone where his backbone should have been. — Ronald Reagan"
 <!--END_SECTION:quote-->
 
 
