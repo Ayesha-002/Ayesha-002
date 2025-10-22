@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Many a man has failed because he had his wishbone where his backbone should have been. — Ronald Reagan"
+> "The scariest moment is always just before you start. After that, things can only get better. — Stephen King"
 <!--END_SECTION:quote-->
 
 
