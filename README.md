@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The scariest moment is always just before you start. After that, things can only get better. — Stephen King"
+> "The world would go on even without you. Don't take yourself so seriously. — Norman Vincent Peale"
 <!--END_SECTION:quote-->
 
 
