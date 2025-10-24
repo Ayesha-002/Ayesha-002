@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The world would go on even without you. Don't take yourself so seriously. — Norman Vincent Peale"
+> "Always be a first-rate version of yourself, instead of a second-rate version of someone else. — Judy Garland"
 <!--END_SECTION:quote-->
 
 
