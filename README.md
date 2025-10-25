@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Always be a first-rate version of yourself, instead of a second-rate version of someone else. — Judy Garland"
+> "To find yourself, think for yourself. — Socrates"
 <!--END_SECTION:quote-->
 
 
