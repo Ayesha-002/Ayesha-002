@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To find yourself, think for yourself. — Socrates"
+> "Genius is the ability to act rightly without precedent - the power to do the right thing the first time. — Elbert Hubbard"
 <!--END_SECTION:quote-->
 
 
