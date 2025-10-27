@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Genius is the ability to act rightly without precedent - the power to do the right thing the first time. — Elbert Hubbard"
+> "The measure of who we are is what we do with what we have. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
