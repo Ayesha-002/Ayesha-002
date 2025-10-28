@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The measure of who we are is what we do with what we have. — Vince Lombardi"
+> "Is it really possible to tell someone else what one feels? — Leo Tolstoy"
 <!--END_SECTION:quote-->
 
 
