@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Is it really possible to tell someone else what one feels? — Leo Tolstoy"
+> "If you aim at nothing, you will hit it every time.   — Zig Ziglar"
 <!--END_SECTION:quote-->
 
 
