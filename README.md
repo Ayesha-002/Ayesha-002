@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you aim at nothing, you will hit it every time.   — Zig Ziglar"
+> "Older men declare war. But it is youth that must fight and die. — Herbert Hoover"
 <!--END_SECTION:quote-->
 
 
