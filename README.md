@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Older men declare war. But it is youth that must fight and die. — Herbert Hoover"
+> "Numbing the pain for a while will make it worse when you finally feel it. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
