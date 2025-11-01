@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Numbing the pain for a while will make it worse when you finally feel it. — Albus Dumbledore"
+> "The ladder of success is best climbed by stepping on the rungs of opportunity. — Ayn Rand"
 <!--END_SECTION:quote-->
 
 
