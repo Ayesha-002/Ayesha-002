@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The ladder of success is best climbed by stepping on the rungs of opportunity. — Ayn Rand"
+> "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. — Josh Waitzkin"
 <!--END_SECTION:quote-->
 
 
