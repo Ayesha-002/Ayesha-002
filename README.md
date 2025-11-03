@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. — Josh Waitzkin"
+> "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. — Johann Wolfgang von Goethe"
 <!--END_SECTION:quote-->
 
 
