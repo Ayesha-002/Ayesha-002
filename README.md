@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. — Johann Wolfgang von Goethe"
+> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. — Mark Manson"
 <!--END_SECTION:quote-->
 
 
