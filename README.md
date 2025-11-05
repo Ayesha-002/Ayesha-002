@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. — Mark Manson"
+> "Happiness must be grown in one's own garden. — Mary Engelbreit"
 <!--END_SECTION:quote-->
 
 
