@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness must be grown in one's own garden. — Mary Engelbreit"
+> "Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love. — Morihei Ueshiba"
 <!--END_SECTION:quote-->
 
 
