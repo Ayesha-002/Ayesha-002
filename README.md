@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love. — Morihei Ueshiba"
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault. — Eleanor Roosevelt"
 <!--END_SECTION:quote-->
 
 
