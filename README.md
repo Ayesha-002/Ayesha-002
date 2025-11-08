@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault. — Eleanor Roosevelt"
+> "Only by acceptance of the past, can you alter it. — T.S. Eliot"
 <!--END_SECTION:quote-->
 
 
