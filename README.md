@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Only by acceptance of the past, can you alter it. — T.S. Eliot"
+> "Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. — Richard Bach"
 <!--END_SECTION:quote-->
 
 
