@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. — Richard Bach"
+> "You may delay, but time will not. — Benjamin Franklin"
 <!--END_SECTION:quote-->
 
 
