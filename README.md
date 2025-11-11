@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You may delay, but time will not. — Benjamin Franklin"
+> "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. — Peter Drucker"
 <!--END_SECTION:quote-->
 
 
