@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. — Peter Drucker"
+> "Concentrated power has always been the enemy of liberty. — Ronald Reagan"
 <!--END_SECTION:quote-->
 
 
