@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Concentrated power has always been the enemy of liberty. — Ronald Reagan"
+> "He is not a lover who does not love forever. — Euripides"
 <!--END_SECTION:quote-->
 
 
