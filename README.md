@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "He is not a lover who does not love forever. — Euripides"
+> "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
