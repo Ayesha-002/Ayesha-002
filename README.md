@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. — Tony Robbins"
+> "There is no absolute success in the world, only constant progress. — Jonathan Swift"
 <!--END_SECTION:quote-->
 
 
