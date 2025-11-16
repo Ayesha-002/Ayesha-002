@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There is no absolute success in the world, only constant progress. — Jonathan Swift"
+> "Men trust their ears less than their eyes. — Herodotus"
 <!--END_SECTION:quote-->
 
 
