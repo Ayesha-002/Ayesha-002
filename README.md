@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Men trust their ears less than their eyes. — Herodotus"
+> "Still your waters. — Josh Waitzkin"
 <!--END_SECTION:quote-->
 
 
