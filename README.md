@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Still your waters. — Josh Waitzkin"
+> "Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler"
 <!--END_SECTION:quote-->
 
 
