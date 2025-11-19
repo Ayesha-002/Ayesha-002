@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler"
+> "Don't blame others. it won't make you a better person. — Lolly Daskal"
 <!--END_SECTION:quote-->
 
 
