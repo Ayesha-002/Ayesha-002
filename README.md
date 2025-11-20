@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't blame others. it won't make you a better person. — Lolly Daskal"
+> "Invisible things are the only realities. — Edgar Allan Poe"
 <!--END_SECTION:quote-->
 
 
