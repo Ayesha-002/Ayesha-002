@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Invisible things are the only realities. — Edgar Allan Poe"
+> "Circumstances do not make the man, they reveal him. — James Allen"
 <!--END_SECTION:quote-->
 
 
