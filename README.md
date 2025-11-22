@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Circumstances do not make the man, they reveal him. — James Allen"
+> "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. — Dalai Lama"
 <!--END_SECTION:quote-->
 
 
