@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. — Dalai Lama"
+> "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. — Alfred Adler"
 <!--END_SECTION:quote-->
 
 
