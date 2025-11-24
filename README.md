@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. — Alfred Adler"
+> "If you want to keep your memories, you first have to live them. — Bob Dylan"
 <!--END_SECTION:quote-->
 
 
