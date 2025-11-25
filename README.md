@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you want to keep your memories, you first have to live them. — Bob Dylan"
+> "Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. — Maxime Lagace"
 <!--END_SECTION:quote-->
 
 
