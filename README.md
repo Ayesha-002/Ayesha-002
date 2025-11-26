@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. — Maxime Lagace"
+> "We are born from a quiet sleep, and we die to a calm awakening — Zhuangzi"
 <!--END_SECTION:quote-->
 
 
