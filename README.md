@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We are born from a quiet sleep, and we die to a calm awakening — Zhuangzi"
+> "Few things are more deceptive than memories. — Carlos Ruiz Zafon"
 <!--END_SECTION:quote-->
 
 
