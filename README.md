@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. — T.S. Eliot"
+> "People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. — Eckhart Tolle"
 <!--END_SECTION:quote-->
 
 
