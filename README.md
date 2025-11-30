@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. — Eckhart Tolle"
+> "Follow the man who seeks the truth; run from the man who has found it. — Vaclav Havel"
 <!--END_SECTION:quote-->
 
 
