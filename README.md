@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Follow the man who seeks the truth; run from the man who has found it. — Vaclav Havel"
+> "Realistic people do not accomplish extraordinary things. — John Eliot"
 <!--END_SECTION:quote-->
 
 
