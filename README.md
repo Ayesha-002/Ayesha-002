@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Realistic people do not accomplish extraordinary things. — John Eliot"
+> "Intense love does not measure, it just gives. — Mother Teresa"
 <!--END_SECTION:quote-->
 
 
