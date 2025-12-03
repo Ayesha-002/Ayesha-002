@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Intense love does not measure, it just gives. — Mother Teresa"
+> "Better to light a candle than to curse the darkness.  — Chinese Proverb"
 <!--END_SECTION:quote-->
 
 
