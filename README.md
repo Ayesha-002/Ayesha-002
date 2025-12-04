@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Better to light a candle than to curse the darkness.  — Chinese Proverb"
+> "When it comes to mastering a skill, time is the magic ingredient. — Robert Greene"
 <!--END_SECTION:quote-->
 
 
