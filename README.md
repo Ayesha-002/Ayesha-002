@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When it comes to mastering a skill, time is the magic ingredient. — Robert Greene"
+> "If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed. — Lily Tomlin"
 <!--END_SECTION:quote-->
 
 
