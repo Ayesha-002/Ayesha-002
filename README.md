@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed. — Lily Tomlin"
+> "When you have to make a choice and don't make it, that is in itself a choice. — William James"
 <!--END_SECTION:quote-->
 
 
