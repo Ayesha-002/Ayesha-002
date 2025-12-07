@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you have to make a choice and don't make it, that is in itself a choice. — William James"
+> "Life belongs to the living, and he who lives must be prepared for changes. — Johann Wolfgang von Goethe"
 <!--END_SECTION:quote-->
 
 
