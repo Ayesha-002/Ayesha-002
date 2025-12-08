@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life belongs to the living, and he who lives must be prepared for changes. — Johann Wolfgang von Goethe"
+> "When something is important enough, you do it even if the odds are not in your favor. — Elon Musk"
 <!--END_SECTION:quote-->
 
 
