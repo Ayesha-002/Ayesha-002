@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When something is important enough, you do it even if the odds are not in your favor. — Elon Musk"
+> "Do what is right, not what is easy, nor what is popular. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
