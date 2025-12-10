@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do what is right, not what is easy, nor what is popular. — Roy T. Bennett"
+> "The ego wants to go fast. The soul needs to go slow. — Maxime Lagace"
 <!--END_SECTION:quote-->
 
 
