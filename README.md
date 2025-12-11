@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The ego wants to go fast. The soul needs to go slow. — Maxime Lagace"
+> "Believe in your infinite potential. Your only limitations are those you set upon yourself. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
