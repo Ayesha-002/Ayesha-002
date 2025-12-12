@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Believe in your infinite potential. Your only limitations are those you set upon yourself. — Roy T. Bennett"
+> "Your worth consists in what you are and not in what you have. — Thomas Edison"
 <!--END_SECTION:quote-->
 
 
