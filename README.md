@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your worth consists in what you are and not in what you have. — Thomas Edison"
+> "Perseverance and spirit have done wonders in all ages.  — George Washington"
 <!--END_SECTION:quote-->
 
 
