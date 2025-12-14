@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Perseverance and spirit have done wonders in all ages.  — George Washington"
+> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
