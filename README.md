@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — Tony Robbins"
+> "Whatever your mind can conceive and believe, it can achieve. — Napoleon Hill"
 <!--END_SECTION:quote-->
 
 
