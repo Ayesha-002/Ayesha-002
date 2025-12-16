@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Whatever your mind can conceive and believe, it can achieve. — Napoleon Hill"
+> "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. — Norman Vincent Peale"
 <!--END_SECTION:quote-->
 
 
