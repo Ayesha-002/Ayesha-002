@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. — Norman Vincent Peale"
+> "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
