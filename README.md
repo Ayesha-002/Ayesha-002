@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. — Roy T. Bennett"
+> "I don't ever give up. I'd have to be dead or completely incapacitated. — Elon Musk"
 <!--END_SECTION:quote-->
 
 
