@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "I don't ever give up. I'd have to be dead or completely incapacitated. — Elon Musk"
+> "Nature loves to hide. — Heraclitus"
 <!--END_SECTION:quote-->
 
 
