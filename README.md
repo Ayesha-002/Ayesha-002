@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Nature loves to hide. — Heraclitus"
+> "You Create Your Own Present By What You Give Your Attention To Today. — Spencer Johnson"
 <!--END_SECTION:quote-->
 
 
