@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You Create Your Own Present By What You Give Your Attention To Today. — Spencer Johnson"
+> "Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. — Bob Marley"
 <!--END_SECTION:quote-->
 
 
