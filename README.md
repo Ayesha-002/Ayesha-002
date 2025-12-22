@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. — Bob Marley"
+> "We all give up great expectations along the way. — Carlos Ruiz Zafon"
 <!--END_SECTION:quote-->
 
 
