@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We all give up great expectations along the way. — Carlos Ruiz Zafon"
+> "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  — Denis Waitley"
 <!--END_SECTION:quote-->
 
 
