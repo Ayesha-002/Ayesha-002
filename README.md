@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  — Denis Waitley"
+> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
