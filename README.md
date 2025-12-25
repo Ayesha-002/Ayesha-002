@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! — Tony Robbins"
+> "Life can be wonderful if you're not afraid of it. — Charlie Chaplin"
 <!--END_SECTION:quote-->
 
 
