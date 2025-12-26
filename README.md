@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life can be wonderful if you're not afraid of it. — Charlie Chaplin"
+> "A fall into a ditch makes you wiser. — Chinese Proverb"
 <!--END_SECTION:quote-->
 
 
