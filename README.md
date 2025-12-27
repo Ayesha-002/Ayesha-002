@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A fall into a ditch makes you wiser. — Chinese Proverb"
+> "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — Andrew Carnegie"
 <!--END_SECTION:quote-->
 
 
