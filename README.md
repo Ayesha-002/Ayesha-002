@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — Andrew Carnegie"
+> "If you think you can do a thing or think you can't do a thing, you're right. — Henry Ford"
 <!--END_SECTION:quote-->
 
 
