@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you think you can do a thing or think you can't do a thing, you're right. — Henry Ford"
+> "The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety. — Sathya Sai Baba"
 <!--END_SECTION:quote-->
 
 
