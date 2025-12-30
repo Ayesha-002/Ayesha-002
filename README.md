@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety. — Sathya Sai Baba"
+> "New opinions are always suspected, and usually opposed, without any other reason but because they are not common. — John Locke"
 <!--END_SECTION:quote-->
 
 
