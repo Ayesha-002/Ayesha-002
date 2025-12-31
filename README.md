@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "New opinions are always suspected, and usually opposed, without any other reason but because they are not common. — John Locke"
+> "When you reach the end of your rope, tie a knot in it and hang on. — Franklin D. Roosevelt"
 <!--END_SECTION:quote-->
 
 
