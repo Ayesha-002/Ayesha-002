@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you reach the end of your rope, tie a knot in it and hang on. — Franklin D. Roosevelt"
+> "Lost Time is never found again. — Benjamin Franklin"
 <!--END_SECTION:quote-->
 
 
