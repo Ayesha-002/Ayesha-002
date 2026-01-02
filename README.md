@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Lost Time is never found again. — Benjamin Franklin"
+> "We win by helping each other win. — Jack Butcher"
 <!--END_SECTION:quote-->
 
 
