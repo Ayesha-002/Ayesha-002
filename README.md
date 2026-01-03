@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We win by helping each other win. — Jack Butcher"
+> "Kind words can be short and easy to speak, but their echoes are truly endless. — Mother Teresa"
 <!--END_SECTION:quote-->
 
 
