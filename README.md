@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Kind words can be short and easy to speak, but their echoes are truly endless. — Mother Teresa"
+> "Don't shortchange yourself when it comes to investing in your own better future. — Jim Rohn"
 <!--END_SECTION:quote-->
 
 
