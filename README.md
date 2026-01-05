@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't shortchange yourself when it comes to investing in your own better future. — Jim Rohn"
+> "Life is the dancer and you are the dance. — Eckhart Tolle"
 <!--END_SECTION:quote-->
 
 
