@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is the dancer and you are the dance. — Eckhart Tolle"
+> "Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn"
 <!--END_SECTION:quote-->
 
 
