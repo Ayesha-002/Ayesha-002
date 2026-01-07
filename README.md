@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn"
+> "There's no next time. It's now or never. — Celestine Chua"
 <!--END_SECTION:quote-->
 
 
