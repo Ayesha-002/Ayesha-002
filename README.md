@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There's no next time. It's now or never. — Celestine Chua"
+> "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable. — Elon Musk"
 <!--END_SECTION:quote-->
 
 
