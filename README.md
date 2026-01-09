@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable. — Elon Musk"
+> "Life must be a constant education; one must learn everything, from speaking to dying. — Gustave Flaubert"
 <!--END_SECTION:quote-->
 
 
