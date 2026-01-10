@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life must be a constant education; one must learn everything, from speaking to dying. — Gustave Flaubert"
+> "Begin at once to live, and count each separate day as a separate life.   — Seneca"
 <!--END_SECTION:quote-->
 
 
