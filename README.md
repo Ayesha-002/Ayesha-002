@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Begin at once to live, and count each separate day as a separate life.   — Seneca"
+> "Create with the heart; build with the mind. — Criss Jami"
 <!--END_SECTION:quote-->
 
 
