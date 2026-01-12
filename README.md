@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Create with the heart; build with the mind. — Criss Jami"
+> "Those who can make you believe absurdities can make you commit atrocities.  — Voltaire"
 <!--END_SECTION:quote-->
 
 
