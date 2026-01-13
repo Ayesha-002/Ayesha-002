@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Those who can make you believe absurdities can make you commit atrocities.  — Voltaire"
+> "If you can handle rejection, you'll learn to get everything you want. — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
