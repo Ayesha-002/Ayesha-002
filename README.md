@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you can handle rejection, you'll learn to get everything you want. — Tony Robbins"
+> "Originality is the fine art of remembering what you hear but forgetting where you heard it.  — Laurence J. Peter"
 <!--END_SECTION:quote-->
 
 
