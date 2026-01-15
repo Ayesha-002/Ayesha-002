@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Originality is the fine art of remembering what you hear but forgetting where you heard it.  — Laurence J. Peter"
+> "It is often safer to be in chains than to be free.  — Franz Kafka"
 <!--END_SECTION:quote-->
 
 
