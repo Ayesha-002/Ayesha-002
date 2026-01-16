@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is often safer to be in chains than to be free.  — Franz Kafka"
+> "Freedom from desire leads to inner peace. — Lao Tzu"
 <!--END_SECTION:quote-->
 
 
