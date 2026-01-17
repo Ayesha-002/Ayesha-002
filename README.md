@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Freedom from desire leads to inner peace. — Lao Tzu"
+> "The more we value things, the less we value ourselves.   — Bruce Lee"
 <!--END_SECTION:quote-->
 
 
