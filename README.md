@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Growing up is losing some illusions, in order to acquire others. — Virginia Woolf"
+> "He who wishes to be obeyed must know how to command. — Niccolo Machiavelli"
 <!--END_SECTION:quote-->
 
 
