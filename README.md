@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "He who wishes to be obeyed must know how to command. — Niccolo Machiavelli"
+> "Words are the clothing of our thoughts. — Jonathan Swift"
 <!--END_SECTION:quote-->
 
 
