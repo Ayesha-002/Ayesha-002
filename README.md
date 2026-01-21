@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Words are the clothing of our thoughts. — Jonathan Swift"
+> "Do not look for a sanctuary in anyone except your self. — Buddha"
 <!--END_SECTION:quote-->
 
 
