@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do not look for a sanctuary in anyone except your self. — Buddha"
+> "Your spirit is the true shield. — Morihei Ueshiba"
 <!--END_SECTION:quote-->
 
 
