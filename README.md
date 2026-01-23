@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your spirit is the true shield. — Morihei Ueshiba"
+> "Poverty and hardship are created by false thinking. — Bodhidharma"
 <!--END_SECTION:quote-->
 
 
