@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Poverty and hardship are created by false thinking. — Bodhidharma"
+> "If you can't argue both sides, you can't argue. — Jack Butcher"
 <!--END_SECTION:quote-->
 
 
