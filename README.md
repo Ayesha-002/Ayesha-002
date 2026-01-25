@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you can't argue both sides, you can't argue. — Jack Butcher"
+> "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. — Robert Greene"
 <!--END_SECTION:quote-->
 
 
