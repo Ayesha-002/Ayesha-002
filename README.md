@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. — Robert Greene"
+> "Enlightenment is intimacy with all things. — Dogen"
 <!--END_SECTION:quote-->
 
 
