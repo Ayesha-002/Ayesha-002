@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. — Jack Butcher"
+> "Don't let your mind stop you. — Steve Harvey"
 <!--END_SECTION:quote-->
 
 
