@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't let your mind stop you. — Steve Harvey"
+> "Seek not the good in external things;seek it in yourselves. — Epictetus"
 <!--END_SECTION:quote-->
 
 
