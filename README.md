@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Seek not the good in external things;seek it in yourselves. — Epictetus"
+> "If you can see it in your mind, you can hold it in your mind. — Steve Harvey"
 <!--END_SECTION:quote-->
 
 
