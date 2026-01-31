@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you can see it in your mind, you can hold it in your mind. — Steve Harvey"
+> "With the new day comes new strength and new thoughts. — Eleanor Roosevelt"
 <!--END_SECTION:quote-->
 
 
