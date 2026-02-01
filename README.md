@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "With the new day comes new strength and new thoughts. — Eleanor Roosevelt"
+> "If your mind is empty, it is always ready for anything, it is open to everything. — Shunryu Suzuki"
 <!--END_SECTION:quote-->
 
 
