@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If your mind is empty, it is always ready for anything, it is open to everything. — Shunryu Suzuki"
+> "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has. — Epictetus"
 <!--END_SECTION:quote-->
 
 
