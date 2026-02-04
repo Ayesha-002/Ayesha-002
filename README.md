@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson"
+> "If you can't imagine it, you can't have it. — Toni Morrison"
 <!--END_SECTION:quote-->
 
 
