@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you can't imagine it, you can't have it. — Toni Morrison"
+> "The greatest of all mistakes is to do nothing because you think you can only do a little.   — Zig Ziglar"
 <!--END_SECTION:quote-->
 
 
