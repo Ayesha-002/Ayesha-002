@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The greatest of all mistakes is to do nothing because you think you can only do a little.   — Zig Ziglar"
+> "Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy. — Celestine Chua"
 <!--END_SECTION:quote-->
 
 
