@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy. — Celestine Chua"
+> "Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. — Earl Nightingale"
 <!--END_SECTION:quote-->
 
 
