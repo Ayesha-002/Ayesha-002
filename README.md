@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. — Earl Nightingale"
+> "The giving of love is an education in itself. — Eleanor Roosevelt"
 <!--END_SECTION:quote-->
 
 
