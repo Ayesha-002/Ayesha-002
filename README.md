@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The giving of love is an education in itself. — Eleanor Roosevelt"
+> "A life without a cause is a life without effect. — Paulo Coelho"
 <!--END_SECTION:quote-->
 
 
