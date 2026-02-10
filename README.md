@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A life without a cause is a life without effect. — Paulo Coelho"
+> "Life is like a beautiful melody, only the lyrics are messed up. — Hans Christian Andersen"
 <!--END_SECTION:quote-->
 
 
