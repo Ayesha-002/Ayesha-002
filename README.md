@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is like a beautiful melody, only the lyrics are messed up. — Hans Christian Andersen"
+> "We can have more than we've got because we can become more than we are. — Jim Rohn"
 <!--END_SECTION:quote-->
 
 
