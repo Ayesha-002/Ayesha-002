@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We can have more than we've got because we can become more than we are. — Jim Rohn"
+> "Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen"
 <!--END_SECTION:quote-->
 
 
