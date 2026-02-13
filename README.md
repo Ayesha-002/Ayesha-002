@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Just living is not enough... one must have sunshine, freedom, and a little flower.  — Hans Christian Andersen"
+> "The most important things are the hardest to say. — Stephen King"
 <!--END_SECTION:quote-->
 
 
