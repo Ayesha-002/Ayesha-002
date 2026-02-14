@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The most important things are the hardest to say. — Stephen King"
+> "Doubt is an uncomfortable condition, but certainty is a ridiculous one. — Voltaire"
 <!--END_SECTION:quote-->
 
 
