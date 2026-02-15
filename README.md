@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Doubt is an uncomfortable condition, but certainty is a ridiculous one. — Voltaire"
+> "Question everything. Learn something. Answer nothing. — Euripides"
 <!--END_SECTION:quote-->
 
 
