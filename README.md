@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Question everything. Learn something. Answer nothing. — Euripides"
+> "We become brave by doing brave acts. — Aristotle"
 <!--END_SECTION:quote-->
 
 
