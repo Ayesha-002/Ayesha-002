@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We become brave by doing brave acts. — Aristotle"
+> "He who knows best knows how little he knows. — Thomas Jefferson"
 <!--END_SECTION:quote-->
 
 
