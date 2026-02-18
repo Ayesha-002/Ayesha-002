@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "He who knows best knows how little he knows. — Thomas Jefferson"
+> "You'll get more from being a peacemaker than a warrior. — Arnold Schwarzenegger"
 <!--END_SECTION:quote-->
 
 
