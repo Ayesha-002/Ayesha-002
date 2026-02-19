@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You'll get more from being a peacemaker than a warrior. — Arnold Schwarzenegger"
+> "Don't be afraid to see what you see. — Ronald Reagan"
 <!--END_SECTION:quote-->
 
 
