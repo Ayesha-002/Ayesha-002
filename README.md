@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't be afraid to see what you see. — Ronald Reagan"
+> "Today you are you, that is truer than true. There is no one alive who is you-er than you. — Dr. Seuss"
 <!--END_SECTION:quote-->
 
 
