@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Today you are you, that is truer than true. There is no one alive who is you-er than you. — Dr. Seuss"
+> "Keep your friends close, and your enemies closer. — Sun Tzu"
 <!--END_SECTION:quote-->
 
 
