@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Keep your friends close, and your enemies closer. — Sun Tzu"
+> "None but ourselves can free our minds. — Bob Marley"
 <!--END_SECTION:quote-->
 
 
