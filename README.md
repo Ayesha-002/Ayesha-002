@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "None but ourselves can free our minds. — Bob Marley"
+> "Never let the fear of striking out keep you from playing the game. — Babe Ruth"
 <!--END_SECTION:quote-->
 
 
