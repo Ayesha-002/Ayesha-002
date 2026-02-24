@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Never let the fear of striking out keep you from playing the game. — Babe Ruth"
+> "The constant assertion of belief is an indication of fear. — Jiddu Krishnamurti"
 <!--END_SECTION:quote-->
 
 
