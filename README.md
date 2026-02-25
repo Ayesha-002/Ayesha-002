@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The constant assertion of belief is an indication of fear. — Jiddu Krishnamurti"
+> "Words are the clothes thoughts wear. — Samuel Beckett"
 <!--END_SECTION:quote-->
 
 
