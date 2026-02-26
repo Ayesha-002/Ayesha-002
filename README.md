@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Words are the clothes thoughts wear. — Samuel Beckett"
+> "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. — Earl Nightingale"
 <!--END_SECTION:quote-->
 
 
