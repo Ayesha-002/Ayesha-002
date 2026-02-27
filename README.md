@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. — Earl Nightingale"
+> "You can tell more about a person by what he says about others than you can by what others say about him. — Audrey Hepburn"
 <!--END_SECTION:quote-->
 
 
