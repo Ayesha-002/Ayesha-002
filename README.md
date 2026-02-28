@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You can tell more about a person by what he says about others than you can by what others say about him. — Audrey Hepburn"
+> "The friendship that can cease has never been real.  — St. Jerome"
 <!--END_SECTION:quote-->
 
 
