@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The friendship that can cease has never been real.  — St. Jerome"
+> "I dream my painting and I paint my dream. — Vincent van Gogh"
 <!--END_SECTION:quote-->
 
 
