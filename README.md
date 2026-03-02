@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "I dream my painting and I paint my dream. — Vincent van Gogh"
+> "We create the world and ourselves; — Ming-Dao Deng"
 <!--END_SECTION:quote-->
 
 
