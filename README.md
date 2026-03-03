@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We create the world and ourselves; — Ming-Dao Deng"
+> "Confidence is contagious. So is lack of confidence. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
