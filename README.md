@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Confidence is contagious. So is lack of confidence. — Vince Lombardi"
+> "You don't have to be great to start, but you have to start to be great.   — Zig Ziglar"
 <!--END_SECTION:quote-->
 
 
