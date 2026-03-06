@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill"
+> "Empty your mind, be formless, shapeless, like water. — Bruce Lee"
 <!--END_SECTION:quote-->
 
 
