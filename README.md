@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Empty your mind, be formless, shapeless, like water. — Bruce Lee"
+> "You cannot always control what goes on outside. But you can always control what goes on inside.  — Wayne Dyer"
 <!--END_SECTION:quote-->
 
 
