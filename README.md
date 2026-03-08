@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You cannot always control what goes on outside. But you can always control what goes on inside.  — Wayne Dyer"
+> "Your chances of success in any undertaking can always be measured by your belief in yourself. — Robert Collier"
 <!--END_SECTION:quote-->
 
 
