@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your chances of success in any undertaking can always be measured by your belief in yourself. — Robert Collier"
+> "Working hard for something we don't care about is called stress: Working hard for something we love is called passion. — Simon Sinek"
 <!--END_SECTION:quote-->
 
 
