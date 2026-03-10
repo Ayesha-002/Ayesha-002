@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Working hard for something we don't care about is called stress: Working hard for something we love is called passion. — Simon Sinek"
+> "Make no small plans for they have no power to stir the soul. — Niccolo Machiavelli"
 <!--END_SECTION:quote-->
 
 
