@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Make no small plans for they have no power to stir the soul. — Niccolo Machiavelli"
+> "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths. — Charles Spurgeon"
 <!--END_SECTION:quote-->
 
 
