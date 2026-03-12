@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths. — Charles Spurgeon"
+> "Happiness is a quality of the soul...not a function of one's material circumstances. — Aristotle"
 <!--END_SECTION:quote-->
 
 
