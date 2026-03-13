@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness is a quality of the soul...not a function of one's material circumstances. — Aristotle"
+> "The essence of the Way is detachment. — Bodhidharma"
 <!--END_SECTION:quote-->
 
 
