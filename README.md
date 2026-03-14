@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The essence of the Way is detachment. — Bodhidharma"
+> "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  — Henry Ford"
 <!--END_SECTION:quote-->
 
 
