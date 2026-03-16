@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The greatest miracle is to be alive. — Thich Nhat Hanh"
+> "Either get busy living or get busy dying. — Stephen King"
 <!--END_SECTION:quote-->
 
 
