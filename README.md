@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. — Roy T. Bennett"
+> "To get angry is like to revenge yourself for the guilt of others. — Jonathan Swift"
 <!--END_SECTION:quote-->
 
 
