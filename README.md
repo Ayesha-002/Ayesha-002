@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To get angry is like to revenge yourself for the guilt of others. — Jonathan Swift"
+> "You must find the place inside yourself where nothing is impossible. — Les Brown"
 <!--END_SECTION:quote-->
 
 
