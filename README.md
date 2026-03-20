@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You must find the place inside yourself where nothing is impossible. — Les Brown"
+> "A flower falls, even though we love it; and a weed grows, even though we do not love it. — Dogen"
 <!--END_SECTION:quote-->
 
 
