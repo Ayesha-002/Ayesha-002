@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A flower falls, even though we love it; and a weed grows, even though we do not love it. — Dogen"
+> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — Richard Bach"
 <!--END_SECTION:quote-->
 
 
