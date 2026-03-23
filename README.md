@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The more we value things, the less we value ourselves.   — Bruce Lee"
+> "Either you choose to stay in the shallow end of the pool or you go out into the ocean. — Christopher Reeve"
 <!--END_SECTION:quote-->
 
 
