@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Either you choose to stay in the shallow end of the pool or you go out into the ocean. — Christopher Reeve"
+> "Courage is the price that life exacts for granting peace. — Amelia Earhart"
 <!--END_SECTION:quote-->
 
 
