@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Courage is the price that life exacts for granting peace. — Amelia Earhart"
+> "We are born from a quiet sleep, and we die to a calm awakening — Zhuangzi"
 <!--END_SECTION:quote-->
 
 
