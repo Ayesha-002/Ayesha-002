@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We are born from a quiet sleep, and we die to a calm awakening — Zhuangzi"
+> "To lead the people, walk behind them. — Lao Tzu"
 <!--END_SECTION:quote-->
 
 
