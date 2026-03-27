@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To lead the people, walk behind them. — Lao Tzu"
+> "Big people don't make people feel small. — Robin Sharma"
 <!--END_SECTION:quote-->
 
 
