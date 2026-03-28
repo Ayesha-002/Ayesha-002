@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Big people don't make people feel small. — Robin Sharma"
+> "Just get out and do it. You will be very, very glad that you did. — Christopher McCandless"
 <!--END_SECTION:quote-->
 
 
