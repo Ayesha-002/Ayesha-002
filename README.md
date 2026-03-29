@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Just get out and do it. You will be very, very glad that you did. — Christopher McCandless"
+> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
