@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. — Roy T. Bennett"
+> "Live and act within the limit of your knowledge and keep expanding it to the limit of your life. — Ayn Rand"
 <!--END_SECTION:quote-->
 
 
