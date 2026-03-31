@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Live and act within the limit of your knowledge and keep expanding it to the limit of your life. — Ayn Rand"
+> "We will now discuss in a little more detail the Struggle for Existence. — Charles Darwin"
 <!--END_SECTION:quote-->
 
 
