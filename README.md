@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We will now discuss in a little more detail the Struggle for Existence. — Charles Darwin"
+> "The successful warrior is the average man, with laser-like focus. — Bruce Lee"
 <!--END_SECTION:quote-->
 
 
