@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The successful warrior is the average man, with laser-like focus. — Bruce Lee"
+> "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. — Herbert Hoover"
 <!--END_SECTION:quote-->
 
 
