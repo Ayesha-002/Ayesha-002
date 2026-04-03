@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. — Herbert Hoover"
+> "Doing what you love is the cornerstone of having abundance in your life.  — Wayne Dyer"
 <!--END_SECTION:quote-->
 
 
