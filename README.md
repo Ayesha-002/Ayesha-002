@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Doing what you love is the cornerstone of having abundance in your life.  — Wayne Dyer"
+> "Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. — Napoleon Hill"
 <!--END_SECTION:quote-->
 
 
