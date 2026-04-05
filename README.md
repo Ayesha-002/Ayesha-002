@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. — Napoleon Hill"
+> "You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey"
 <!--END_SECTION:quote-->
 
 
