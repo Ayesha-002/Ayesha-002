@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey"
+> "Confidence breeds beauty.   — Estee Lauder"
 <!--END_SECTION:quote-->
 
 
