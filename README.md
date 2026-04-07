@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Confidence breeds beauty.   — Estee Lauder"
+> "Whenever you do a thing, act as if all the world were watching. — Thomas Jefferson"
 <!--END_SECTION:quote-->
 
 
