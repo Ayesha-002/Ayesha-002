@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Whenever you do a thing, act as if all the world were watching. — Thomas Jefferson"
+> "There are two kinds of perfect people: those who are dead, and those who have not been born yet. — Chinese Proverb"
 <!--END_SECTION:quote-->
 
 
