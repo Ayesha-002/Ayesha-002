@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There are two kinds of perfect people: those who are dead, and those who have not been born yet. — Chinese Proverb"
+> "Wise men speak because they have something to say; Fools because they have to say something. — Plato"
 <!--END_SECTION:quote-->
 
 
