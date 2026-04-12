@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The goal is not to show how great you are to others, but how vulnerable you are to yourself. — Maxime Lagace"
+> "The meaning of life is just to be alive. It is so plain and so obvious and so simple. — Alan Watts"
 <!--END_SECTION:quote-->
 
 
