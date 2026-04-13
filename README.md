@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The meaning of life is just to be alive. It is so plain and so obvious and so simple. — Alan Watts"
+> "Repetition does not transform a lie into a truth. — Franklin D. Roosevelt"
 <!--END_SECTION:quote-->
 
 
