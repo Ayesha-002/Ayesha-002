@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Repetition does not transform a lie into a truth. — Franklin D. Roosevelt"
+> "Without the rain there would be no rainbow. — Gilbert Chesterton"
 <!--END_SECTION:quote-->
 
 
