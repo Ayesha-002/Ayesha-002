@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Without the rain there would be no rainbow. — Gilbert Chesterton"
+> "When you've got nothing, you've got nothing to lose. — Bob Dylan"
 <!--END_SECTION:quote-->
 
 
