@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you've got nothing, you've got nothing to lose. — Bob Dylan"
+> "The purpose of life is the expansion of happiness. — Deepak Chopra"
 <!--END_SECTION:quote-->
 
 
