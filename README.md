@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The purpose of life is the expansion of happiness. — Deepak Chopra"
+> "When you are content to be simply yourself and don't compare or compete, everybody will respect you.  — Lao Tzu"
 <!--END_SECTION:quote-->
 
 
