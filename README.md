@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you are content to be simply yourself and don't compare or compete, everybody will respect you.  — Lao Tzu"
+> "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. — Dale Carnegie"
 <!--END_SECTION:quote-->
 
 
