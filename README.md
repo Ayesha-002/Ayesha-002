@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. — Dale Carnegie"
+> "To belittle, you have to be little. — Kahlil Gibran"
 <!--END_SECTION:quote-->
 
 
