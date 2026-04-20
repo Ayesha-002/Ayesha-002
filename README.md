@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To belittle, you have to be little. — Kahlil Gibran"
+> "They who have conquered doubt and fear have conquered failure. — James Allen"
 <!--END_SECTION:quote-->
 
 
