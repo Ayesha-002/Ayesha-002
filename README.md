@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "They who have conquered doubt and fear have conquered failure. — James Allen"
+> "Often in the real world, it's not the smart that get ahead, but the bold. — Robert Kiyosaki"
 <!--END_SECTION:quote-->
 
 
