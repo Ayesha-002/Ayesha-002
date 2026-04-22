@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Often in the real world, it's not the smart that get ahead, but the bold. — Robert Kiyosaki"
+> "Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. — John Wooden"
 <!--END_SECTION:quote-->
 
 
