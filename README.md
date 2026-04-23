@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. — John Wooden"
+> "It is our choices that show what we truly are, far more than our abilities. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
