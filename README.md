@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is our choices that show what we truly are, far more than our abilities. — Albus Dumbledore"
+> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  — Charles Swindoll"
 <!--END_SECTION:quote-->
 
 
