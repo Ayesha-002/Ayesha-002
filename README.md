@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  — Charles Swindoll"
+> "Confidence is what you have before you understand the problem. — Woody Allen"
 <!--END_SECTION:quote-->
 
 
