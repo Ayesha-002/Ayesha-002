@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Trust, but verify. — Ronald Reagan"
+> "If you look for perfection, you'll never be content. — Leo Tolstoy"
 <!--END_SECTION:quote-->
 
 
