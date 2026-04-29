@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you look for perfection, you'll never be content. — Leo Tolstoy"
+> "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. — Dogen"
 <!--END_SECTION:quote-->
 
 
