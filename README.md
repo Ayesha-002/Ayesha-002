@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. — Dogen"
+> "No one can confidently say that he will still be living tomorrow. — Euripides"
 <!--END_SECTION:quote-->
 
 
