@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "No one can confidently say that he will still be living tomorrow. — Euripides"
+> "Peace is not the absence of conflict, but the ability to cope with it. — Unknown"
 <!--END_SECTION:quote-->
 
 
