@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Peace is not the absence of conflict, but the ability to cope with it. — Unknown"
+> "The meaning of life is just to be alive. It is so plain and so obvious and so simple. — Alan Watts"
 <!--END_SECTION:quote-->
 
 
