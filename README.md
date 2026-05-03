@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The meaning of life is just to be alive. It is so plain and so obvious and so simple. — Alan Watts"
+> "For changes to be of any true value, they've got to be lasting and consistent. — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
