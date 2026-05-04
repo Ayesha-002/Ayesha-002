@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "For changes to be of any true value, they've got to be lasting and consistent. — Tony Robbins"
+> "There is no significance in life without struggle. — Lolly Daskal"
 <!--END_SECTION:quote-->
 
 
