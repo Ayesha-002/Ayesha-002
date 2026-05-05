@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There is no significance in life without struggle. — Lolly Daskal"
+> "Life is but one dream flowing into another. — Ming-Dao Deng"
 <!--END_SECTION:quote-->
 
 
