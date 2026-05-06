@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is but one dream flowing into another. — Ming-Dao Deng"
+> "Words can only have a positive effect on others if and when they are ready to listen. — Christopher Reeve"
 <!--END_SECTION:quote-->
 
 
