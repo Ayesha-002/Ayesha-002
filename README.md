@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Words can only have a positive effect on others if and when they are ready to listen. — Christopher Reeve"
+> "Don't be afraid that you do not know something. Be afraid of not learning about it. — Zen Proverb"
 <!--END_SECTION:quote-->
 
 
