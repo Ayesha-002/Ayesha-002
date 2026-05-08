@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't be afraid that you do not know something. Be afraid of not learning about it. — Zen Proverb"
+> "To improve is to change, so to be perfect is to change often. — Winston Churchill"
 <!--END_SECTION:quote-->
 
 
