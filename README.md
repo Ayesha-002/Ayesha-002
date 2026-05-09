@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To improve is to change, so to be perfect is to change often. — Winston Churchill"
+> "Common sense is not so common.  — Voltaire"
 <!--END_SECTION:quote-->
 
 
