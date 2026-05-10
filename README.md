@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Common sense is not so common.  — Voltaire"
+> "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens"
 <!--END_SECTION:quote-->
 
 
