@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens"
+> "Reversing your treatment of the man you have wronged is better than asking his forgiveness. — Elbert Hubbard"
 <!--END_SECTION:quote-->
 
 
