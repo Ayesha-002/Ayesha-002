@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Reversing your treatment of the man you have wronged is better than asking his forgiveness. — Elbert Hubbard"
+> ""
 <!--END_SECTION:quote-->
 
 
