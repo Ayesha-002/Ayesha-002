@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> ""
+> "It's not whether you get knocked down, its whether you get back up. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
