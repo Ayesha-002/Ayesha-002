@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's not whether you get knocked down, its whether you get back up. — Vince Lombardi"
+> "Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki"
 <!--END_SECTION:quote-->
 
 
