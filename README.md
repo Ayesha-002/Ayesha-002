@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki"
+> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. — Emily Dickinson"
 <!--END_SECTION:quote-->
 
 
