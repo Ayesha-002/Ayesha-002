@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. — Emily Dickinson"
+> "You play the hand you're dealt. I think the game's worthwhile.   — Christopher Reeve"
 <!--END_SECTION:quote-->
 
 
