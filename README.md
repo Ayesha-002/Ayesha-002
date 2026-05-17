@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You play the hand you're dealt. I think the game's worthwhile.   — Christopher Reeve"
+> "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — Paulo Coelho"
 <!--END_SECTION:quote-->
 
 
