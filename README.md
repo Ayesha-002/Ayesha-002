@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — Paulo Coelho"
+> "The purpose of life is the life of purpose. — Robin Sharma"
 <!--END_SECTION:quote-->
 
 
