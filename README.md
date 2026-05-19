@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The purpose of life is the life of purpose. — Robin Sharma"
+> "Humans and prosperity never endure side by side for long. — Herodotus"
 <!--END_SECTION:quote-->
 
 
