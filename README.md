@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Humans and prosperity never endure side by side for long. — Herodotus"
+> "The man who removes a mountain begins by carrying away small stones. — William Faulkner"
 <!--END_SECTION:quote-->
 
 
