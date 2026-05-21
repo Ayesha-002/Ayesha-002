@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The man who removes a mountain begins by carrying away small stones. — William Faulkner"
+> "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. — John Tukey"
 <!--END_SECTION:quote-->
 
 
