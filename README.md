@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. — John Tukey"
+> "The future depends on what you do today.  — Mahatma Gandhi"
 <!--END_SECTION:quote-->
 
 
