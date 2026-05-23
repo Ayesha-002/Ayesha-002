@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The future depends on what you do today.  — Mahatma Gandhi"
+> "May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — Dan Millman"
 <!--END_SECTION:quote-->
 
 
