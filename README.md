@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — Dan Millman"
+> "Numbing the pain for a while will only make it worse when you finally feel it. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
