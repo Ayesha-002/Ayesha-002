@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Numbing the pain for a while will only make it worse when you finally feel it. — Albus Dumbledore"
+> "Remember, hope is a good thing, maybe the best of things. — Stephen King"
 <!--END_SECTION:quote-->
 
 
