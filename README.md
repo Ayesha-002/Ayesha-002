@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Remember, hope is a good thing, maybe the best of things. — Stephen King"
+> "Whatever you decide to do, make sure it makes you happy. — Paulo Coelho"
 <!--END_SECTION:quote-->
 
 
