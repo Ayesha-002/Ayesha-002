@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Whatever you decide to do, make sure it makes you happy. — Paulo Coelho"
+> "Always try to be a little kinder than necessary. — James Matthew Barrie"
 <!--END_SECTION:quote-->
 
 
