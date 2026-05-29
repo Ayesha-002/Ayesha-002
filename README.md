@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Always try to be a little kinder than necessary. — James Matthew Barrie"
+> "Don't be afraid to give up the good to go for the great. — Colin R. Davis"
 <!--END_SECTION:quote-->
 
 
