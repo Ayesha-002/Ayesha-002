@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't be afraid to give up the good to go for the great. — Colin R. Davis"
+> "The best of us sometimes eat our words. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
