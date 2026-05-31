@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The best of us sometimes eat our words. — Albus Dumbledore"
+> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — Richard Bach"
 <!--END_SECTION:quote-->
 
 
