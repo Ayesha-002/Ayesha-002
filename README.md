@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — Richard Bach"
+> "If you're afraid - don't do it, - if you're doing it - don't be afraid! — Genghis Khan"
 <!--END_SECTION:quote-->
 
 
