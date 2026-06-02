@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you're afraid - don't do it, - if you're doing it - don't be afraid! — Genghis Khan"
+> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions. — Criss Jami"
 <!--END_SECTION:quote-->
 
 
