@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions. — Criss Jami"
+> "The greatest deception men suffer is from their own opinions. — Leonardo da Vinci"
 <!--END_SECTION:quote-->
 
 
