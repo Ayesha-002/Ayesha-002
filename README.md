@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The greatest deception men suffer is from their own opinions. — Leonardo da Vinci"
+> ""
 <!--END_SECTION:quote-->
 
 
