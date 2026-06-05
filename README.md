@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> ""
+> "The divine is not something high above us. It is in heaven, it is in earth, it is inside us. — Morihei Ueshiba"
 <!--END_SECTION:quote-->
 
 
