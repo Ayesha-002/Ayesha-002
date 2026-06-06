@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The divine is not something high above us. It is in heaven, it is in earth, it is inside us. — Morihei Ueshiba"
+> "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
