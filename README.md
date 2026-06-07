@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. — Albus Dumbledore"
+> "The most difficult times for many of us are the ones we give ourselves. — Pema Chodron"
 <!--END_SECTION:quote-->
 
 
