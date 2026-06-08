@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The most difficult times for many of us are the ones we give ourselves. — Pema Chodron"
+> "The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. — George Bernard Shaw"
 <!--END_SECTION:quote-->
 
 
