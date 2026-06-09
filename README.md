@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. — George Bernard Shaw"
+> "Once you learn to quit, it becomes a habit. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
