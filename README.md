@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Once you learn to quit, it becomes a habit. — Vince Lombardi"
+> "Being wrong brings the opportunity for growth. — Mark Manson"
 <!--END_SECTION:quote-->
 
 
