@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Being wrong brings the opportunity for growth. — Mark Manson"
+> "Remain calm. Be kind. — Colin Powell"
 <!--END_SECTION:quote-->
 
 
