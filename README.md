@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Remain calm. Be kind. — Colin Powell"
+> "What we desire makes us vulnerable. — Ryan Holiday"
 <!--END_SECTION:quote-->
 
 
