@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "What we desire makes us vulnerable. — Ryan Holiday"
+> "Patience expands your options. If you insist on immediate gratification, your choices are severely limited. — Ralph Marston"
 <!--END_SECTION:quote-->
 
 
