@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Patience expands your options. If you insist on immediate gratification, your choices are severely limited. — Ralph Marston"
+> "A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe"
 <!--END_SECTION:quote-->
 
 
