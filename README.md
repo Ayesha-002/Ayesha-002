@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe"
+> "The two most powerful warriors are patience and time. — Leo Tolstoy"
 <!--END_SECTION:quote-->
 
 
