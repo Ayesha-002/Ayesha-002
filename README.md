@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The two most powerful warriors are patience and time. — Leo Tolstoy"
+> "It doesn't matter what you do, only how well you do it. — Dan Millman"
 <!--END_SECTION:quote-->
 
 
