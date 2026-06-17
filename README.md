@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It doesn't matter what you do, only how well you do it. — Dan Millman"
+> "The one who praises you is a thief. The one who criticizes you is your true friend. — Seungsahn"
 <!--END_SECTION:quote-->
 
 
