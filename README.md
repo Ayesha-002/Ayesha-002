@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The one who praises you is a thief. The one who criticizes you is your true friend. — Seungsahn"
+> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu"
 <!--END_SECTION:quote-->
 
 
