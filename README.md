@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu"
+> "The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. — Eckhart Tolle"
 <!--END_SECTION:quote-->
 
 
