@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. — Barack Obama"
+> "Happiness is not a goal...it's a by-product of a life well lived. — Eleanor Roosevelt"
 <!--END_SECTION:quote-->
 
 
