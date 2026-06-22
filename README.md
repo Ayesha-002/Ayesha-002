@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness is not a goal...it's a by-product of a life well lived. — Eleanor Roosevelt"
+> "A moving door hinge never corrodes. Flowing water never grows stagnant. — Ming-Dao Deng"
 <!--END_SECTION:quote-->
 
 
