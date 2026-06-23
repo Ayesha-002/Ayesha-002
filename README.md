@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A moving door hinge never corrodes. Flowing water never grows stagnant. — Ming-Dao Deng"
+> "Without the rain there would be no rainbow. — Gilbert Chesterton"
 <!--END_SECTION:quote-->
 
 
