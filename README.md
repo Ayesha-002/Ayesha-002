@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Without the rain there would be no rainbow. — Gilbert Chesterton"
+> "Never argue with stupid people, they will drag you down to their level and then beat you with experience. — Mark Twain"
 <!--END_SECTION:quote-->
 
 
