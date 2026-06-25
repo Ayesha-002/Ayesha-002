@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Never argue with stupid people, they will drag you down to their level and then beat you with experience. — Mark Twain"
+> "Mastering others is strength, mastering yourself is true power. — Lao Tzu"
 <!--END_SECTION:quote-->
 
 
