@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Mastering others is strength, mastering yourself is true power. — Lao Tzu"
+> "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley"
 <!--END_SECTION:quote-->
 
 
