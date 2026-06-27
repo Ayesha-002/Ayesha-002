@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. — Elvis Presley"
+> "Everything will be ok in the end. If it's not ok, it's not the end. — John Lennon"
 <!--END_SECTION:quote-->
 
 
