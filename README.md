@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Everything will be ok in the end. If it's not ok, it's not the end. — John Lennon"
+> "Tis not too late to seek a newer world. — Heraclitus"
 <!--END_SECTION:quote-->
 
 
