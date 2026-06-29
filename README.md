@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Tis not too late to seek a newer world. — Heraclitus"
+> "The more one judges, the less one loves. — Honore de Balzac"
 <!--END_SECTION:quote-->
 
 
