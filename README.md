@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The more one judges, the less one loves. — Honore de Balzac"
+> "A loving heart is the truest wisdom. — Charles Dickens"
 <!--END_SECTION:quote-->
 
 
