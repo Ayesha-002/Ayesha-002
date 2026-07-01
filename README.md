@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A loving heart is the truest wisdom. — Charles Dickens"
+> "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. — Seungsahn"
 <!--END_SECTION:quote-->
 
 
