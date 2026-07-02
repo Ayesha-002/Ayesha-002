@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. — Seungsahn"
+> "To plant a garden is to believe in tomorrow. — Audrey Hepburn"
 <!--END_SECTION:quote-->
 
 
