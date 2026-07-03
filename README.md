@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To plant a garden is to believe in tomorrow. — Audrey Hepburn"
+> "Less is more. — Robert Browning"
 <!--END_SECTION:quote-->
 
 
