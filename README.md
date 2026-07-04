@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Less is more. — Robert Browning"
+> "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — Jon Kabat-Zinn"
 <!--END_SECTION:quote-->
 
 
