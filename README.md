@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — Jon Kabat-Zinn"
+> "Not doing it is certainly the best way to not getting it. — Wayne Gretzky"
 <!--END_SECTION:quote-->
 
 
