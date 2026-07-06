@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Not doing it is certainly the best way to not getting it. — Wayne Gretzky"
+> "Circumstances do not make the man, they reveal him. — James Allen"
 <!--END_SECTION:quote-->
 
 
