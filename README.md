@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Circumstances do not make the man, they reveal him. — James Allen"
+> "I will not walk backward in life. — J.R.R. Tolkien"
 <!--END_SECTION:quote-->
 
 
