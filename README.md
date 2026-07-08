@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "I will not walk backward in life. — J.R.R. Tolkien"
+> "Decide upon your major definite purpose in life and then organize all your activities around it. — Brian Tracy"
 <!--END_SECTION:quote-->
 
 
