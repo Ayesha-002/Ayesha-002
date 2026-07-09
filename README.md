@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Decide upon your major definite purpose in life and then organize all your activities around it. — Brian Tracy"
+> "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
