@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. — Roy T. Bennett"
+> "My sun sets to rise again. — Robert Browning"
 <!--END_SECTION:quote-->
 
 
