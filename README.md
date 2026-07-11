@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "My sun sets to rise again. — Robert Browning"
+> "When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. — Josh Waitzkin"
 <!--END_SECTION:quote-->
 
 
