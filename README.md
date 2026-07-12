@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. — Josh Waitzkin"
+> "Be the change that you want to see in the world. — Mahatma Gandhi"
 <!--END_SECTION:quote-->
 
 
