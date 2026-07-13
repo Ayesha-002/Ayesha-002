@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Be the change that you want to see in the world. — Mahatma Gandhi"
+> "Everything begins with an idea. — Earl Nightingale"
 <!--END_SECTION:quote-->
 
 
