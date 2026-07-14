@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Everything begins with an idea. — Earl Nightingale"
+> "I've always tried to go a step past wherever people expected me to end up. — Beverly Sills"
 <!--END_SECTION:quote-->
 
 
