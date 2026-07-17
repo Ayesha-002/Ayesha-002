@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Just get out and do it. You will be very, very glad that you did. — Christopher McCandless"
+> "Life is but one dream flowing into another. — Ming-Dao Deng"
 <!--END_SECTION:quote-->
 
 
