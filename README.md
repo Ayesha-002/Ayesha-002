@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is but one dream flowing into another. — Ming-Dao Deng"
+> "When things go wrong, don't go with them. — Elvis Presley"
 <!--END_SECTION:quote-->
 
 
