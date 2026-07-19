@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When things go wrong, don't go with them. — Elvis Presley"
+> "Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone. — Jack Kerouac"
 <!--END_SECTION:quote-->
 
 
