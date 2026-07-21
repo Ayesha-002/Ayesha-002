@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "I would rather be a little nobody, then to be an evil somebody. — Abraham Lincoln"
+> "People who have goals succeed because they know where they're going. It's that simple. — Earl Nightingale"
 <!--END_SECTION:quote-->
 
 
