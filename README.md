@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "People who have goals succeed because they know where they're going. It's that simple. — Earl Nightingale"
+> "The time is now, the place is here. Stay in the present. — Dan Millman"
 <!--END_SECTION:quote-->
 
 
