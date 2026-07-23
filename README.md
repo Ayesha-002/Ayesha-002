@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The time is now, the place is here. Stay in the present. — Dan Millman"
+> "Sometimes, the only way to evolve is to open ourselves fully. — Kamal Ravikant"
 <!--END_SECTION:quote-->
 
 
