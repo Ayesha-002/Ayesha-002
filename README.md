@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Sometimes, the only way to evolve is to open ourselves fully. — Kamal Ravikant"
+> "If you want to see things just as they are, then you yourself must practice just as you are. — Dogen"
 <!--END_SECTION:quote-->
 
 
