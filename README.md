@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you want to see things just as they are, then you yourself must practice just as you are. — Dogen"
+> "It doesn't matter how slow you go, as long as you don't stop. — Confucius"
 <!--END_SECTION:quote-->
 
 
