@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It doesn't matter how slow you go, as long as you don't stop. — Confucius"
+> "It's just a bad day, not a bad life. — Mary Engelbreit"
 <!--END_SECTION:quote-->
 
 
