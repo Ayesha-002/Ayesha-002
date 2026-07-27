@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's just a bad day, not a bad life. — Mary Engelbreit"
+> "Rather than love, than money, than fame, give me truth. — Henry David Thoreau"
 <!--END_SECTION:quote-->
 
 
