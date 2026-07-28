@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Rather than love, than money, than fame, give me truth. — Henry David Thoreau"
+> "Stop being tormented by everyone else's reaction to you. — Joyce Meyer"
 <!--END_SECTION:quote-->
 
 
