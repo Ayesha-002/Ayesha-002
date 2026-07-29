@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Stop being tormented by everyone else's reaction to you. — Joyce Meyer"
+> "Remember we're all in this alone. — Lily Tomlin"
 <!--END_SECTION:quote-->
 
 
