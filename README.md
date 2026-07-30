@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Remember we're all in this alone. — Lily Tomlin"
+> "A wise man can learn more from a foolish question than a fool can learn from a wise answer. — Bruce Lee"
 <!--END_SECTION:quote-->
 
 
