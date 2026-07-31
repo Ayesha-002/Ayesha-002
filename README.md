@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A wise man can learn more from a foolish question than a fool can learn from a wise answer. — Bruce Lee"
+> "Be kind, for everyone you meet is fighting a harder battle. — Plato"
 <!--END_SECTION:quote-->
 
 
