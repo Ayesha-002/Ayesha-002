@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Be kind, for everyone you meet is fighting a harder battle. — Plato"
+> "The most tragic thing in the world is a man of genius who is not a man of honor. — George Bernard Shaw"
 <!--END_SECTION:quote-->
 
 
