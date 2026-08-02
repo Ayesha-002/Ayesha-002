@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The most tragic thing in the world is a man of genius who is not a man of honor. — George Bernard Shaw"
+> "If ever you feel like an animal among men, be a lion. — Criss Jami"
 <!--END_SECTION:quote-->
 
 
