@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If ever you feel like an animal among men, be a lion. — Criss Jami"
+> "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' — Brian Tracy"
 <!--END_SECTION:quote-->
 
 
