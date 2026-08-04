@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' — Brian Tracy"
+> "Life is and will ever remain an equation incapable of solution, but it contains certain known factors. — Nikola Tesla"
 <!--END_SECTION:quote-->
 
 
