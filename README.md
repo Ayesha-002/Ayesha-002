@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life is and will ever remain an equation incapable of solution, but it contains certain known factors. — Nikola Tesla"
+> "Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
