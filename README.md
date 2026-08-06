@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy. — Roy T. Bennett"
+> "It is what we make out of what we have, not what we are given, that separates one person from another. — Nelson Mandela"
 <!--END_SECTION:quote-->
 
 
