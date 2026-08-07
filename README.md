@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is what we make out of what we have, not what we are given, that separates one person from another. — Nelson Mandela"
+> "Those who are possessed by nothing possess everything. — Morihei Ueshiba"
 <!--END_SECTION:quote-->
 
 
