@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Those who are possessed by nothing possess everything. — Morihei Ueshiba"
+> "Make your stand today. On this spot. On this day. — Ming-Dao Deng"
 <!--END_SECTION:quote-->
 
 
