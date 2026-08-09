@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Make your stand today. On this spot. On this day. — Ming-Dao Deng"
+> "The friend is the man who knows all about you, and still likes you. — Elbert Hubbard"
 <!--END_SECTION:quote-->
 
 
