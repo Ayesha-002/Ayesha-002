@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The friend is the man who knows all about you, and still likes you. — Elbert Hubbard"
+> "Go for it now. The future is promised to no one. — Wayne Dyer"
 <!--END_SECTION:quote-->
 
 
