@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Go for it now. The future is promised to no one. — Wayne Dyer"
+> "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. — Sonia Ricotti"
 <!--END_SECTION:quote-->
 
 
