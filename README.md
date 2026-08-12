@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. — Sonia Ricotti"
+> "You can have the mind or you can have the moment. — Naval Ravikant"
 <!--END_SECTION:quote-->
 
 
