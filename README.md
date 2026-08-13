@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You can have the mind or you can have the moment. — Naval Ravikant"
+> "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. — Arnold Schwarzenegger"
 <!--END_SECTION:quote-->
 
 
