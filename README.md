@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. — Arnold Schwarzenegger"
+> "To be alive - is Power. — Emily Dickinson"
 <!--END_SECTION:quote-->
 
 
