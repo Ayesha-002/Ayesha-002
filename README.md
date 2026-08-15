@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To be alive - is Power. — Emily Dickinson"
+> "Do not fight with pigs - you will be smeared in mud but the pig will like it. — George Bernard Shaw"
 <!--END_SECTION:quote-->
 
 
