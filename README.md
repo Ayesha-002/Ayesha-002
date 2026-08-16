@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do not fight with pigs - you will be smeared in mud but the pig will like it. — George Bernard Shaw"
+> "All our dreams can come true, if we have the courage to pursue them. — Walt Disney"
 <!--END_SECTION:quote-->
 
 
