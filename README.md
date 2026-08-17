@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "All our dreams can come true, if we have the courage to pursue them. — Walt Disney"
+> "Enjoy life. There's plenty of time to be dead. — Hans Christian Andersen"
 <!--END_SECTION:quote-->
 
 
