@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Enjoy life. There's plenty of time to be dead. — Hans Christian Andersen"
+> "If you look for perfection, you'll never be content. — Leo Tolstoy"
 <!--END_SECTION:quote-->
 
 
