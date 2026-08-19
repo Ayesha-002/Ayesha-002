@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you look for perfection, you'll never be content. — Leo Tolstoy"
+> "The easiest way in the world to make enemies is to hire friends. — George Lorimer"
 <!--END_SECTION:quote-->
 
 
