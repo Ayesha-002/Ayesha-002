@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The easiest way in the world to make enemies is to hire friends. — George Lorimer"
+> "When awareness arises in you, it means awareness is arising in the collective mind of humanity. — Eckhart Tolle"
 <!--END_SECTION:quote-->
 
 
