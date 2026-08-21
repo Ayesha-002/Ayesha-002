@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When awareness arises in you, it means awareness is arising in the collective mind of humanity. — Eckhart Tolle"
+> "Once you learn to quit, it becomes a habit. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
