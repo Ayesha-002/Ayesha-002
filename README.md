@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Once you learn to quit, it becomes a habit. — Vince Lombardi"
+> "If I cannot do great things. I can do small things in a great way. — Martin Luther King, Jr."
 <!--END_SECTION:quote-->
 
 
