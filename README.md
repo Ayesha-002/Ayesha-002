@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If I cannot do great things. I can do small things in a great way. — Martin Luther King, Jr."
+> "To be of use to the world is the only way to be happy. — Hans Christian Andersen"
 <!--END_SECTION:quote-->
 
 
