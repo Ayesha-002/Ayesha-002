@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To be of use to the world is the only way to be happy. — Hans Christian Andersen"
+> "Obstacles are those frightful things you see when you take your eyes off your goals. — Sydney Smith"
 <!--END_SECTION:quote-->
 
 
