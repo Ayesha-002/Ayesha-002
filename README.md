@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Obstacles are those frightful things you see when you take your eyes off your goals. — Sydney Smith"
+> "Happiness is the spiritual experience of living every minute with love, grace and gratitude. — Denis Waitley"
 <!--END_SECTION:quote-->
 
 
