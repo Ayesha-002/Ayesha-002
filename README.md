@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness is the spiritual experience of living every minute with love, grace and gratitude. — Denis Waitley"
+> "Begin at once to live, and count each separate day as a separate life. — Seneca"
 <!--END_SECTION:quote-->
 
 
