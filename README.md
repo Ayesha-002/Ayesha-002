@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Begin at once to live, and count each separate day as a separate life. — Seneca"
+> "If you don't break your ropes while you're alive, do you think ghosts will do it after? — Kabir"
 <!--END_SECTION:quote-->
 
 
