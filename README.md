@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you don't break your ropes while you're alive, do you think ghosts will do it after? — Kabir"
+> "Do every act of your life as if it were your last. — Marcus Aurelius"
 <!--END_SECTION:quote-->
 
 
