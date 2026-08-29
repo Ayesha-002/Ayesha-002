@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do every act of your life as if it were your last. — Marcus Aurelius"
+> "Being entirely honest with oneself is a good exercise. — Sigmund Freud"
 <!--END_SECTION:quote-->
 
 
