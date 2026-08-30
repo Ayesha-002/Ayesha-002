@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Being entirely honest with oneself is a good exercise. — Sigmund Freud"
+> "In youth we run into difficulties. In old age difficulties run into us. — Beverly Sills"
 <!--END_SECTION:quote-->
 
 
