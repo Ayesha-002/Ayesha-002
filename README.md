@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "In youth we run into difficulties. In old age difficulties run into us. — Beverly Sills"
+> "Happiness cannot be traveled to, owned, earned, worn or consumed. — Denis Waitley"
 <!--END_SECTION:quote-->
 
 
