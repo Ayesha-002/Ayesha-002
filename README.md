@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness cannot be traveled to, owned, earned, worn or consumed. — Denis Waitley"
+> "Never argue with ignorance. It only leads to frustration. — Unknown"
 <!--END_SECTION:quote-->
 
 
