@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Never argue with ignorance. It only leads to frustration. — Unknown"
+> "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. — Kahlil Gibran"
 <!--END_SECTION:quote-->
 
 
