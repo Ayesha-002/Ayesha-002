@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. — Kahlil Gibran"
+> "Success is walking from failure to failure with no loss of enthusiasm. — Colin R. Davis"
 <!--END_SECTION:quote-->
 
 
