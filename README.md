@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Success is walking from failure to failure with no loss of enthusiasm. — Colin R. Davis"
+> "Never let the fear of striking out keep you from playing the game. — Babe Ruth"
 <!--END_SECTION:quote-->
 
 
