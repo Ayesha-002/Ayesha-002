@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is better to learn late than never. — Publilius Syrus"
+> "To be truly ignorant, be content with your own knowledge. — Zhuangzi"
 <!--END_SECTION:quote-->
 
 
