@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To be truly ignorant, be content with your own knowledge. — Zhuangzi"
+> "People tend to complicate their own lives, as if living weren't already complicated enough. — Carlos Ruiz Zafon"
 <!--END_SECTION:quote-->
 
 
