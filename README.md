@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "People tend to complicate their own lives, as if living weren't already complicated enough. — Carlos Ruiz Zafon"
+> "Emancipate yourself from mental slavery, none but ourselves can free our mind. — Bob Marley"
 <!--END_SECTION:quote-->
 
 
