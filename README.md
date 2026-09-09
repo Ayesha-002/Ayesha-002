@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Emancipate yourself from mental slavery, none but ourselves can free our mind. — Bob Marley"
+> "The only way to do great work is to love what you do. — Colin R. Davis"
 <!--END_SECTION:quote-->
 
 
