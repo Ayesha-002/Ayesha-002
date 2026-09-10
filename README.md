@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The only way to do great work is to love what you do. — Colin R. Davis"
+> "To get angry is like to revenge yourself for the guilt of others. — Jonathan Swift"
 <!--END_SECTION:quote-->
 
 
