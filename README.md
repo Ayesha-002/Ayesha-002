@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To get angry is like to revenge yourself for the guilt of others. — Jonathan Swift"
+> "Action is the foundational key to all success. — Pablo Picasso"
 <!--END_SECTION:quote-->
 
 
