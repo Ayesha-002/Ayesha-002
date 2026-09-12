@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Action is the foundational key to all success. — Pablo Picasso"
+> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself. — Jon Kabat-Zinn"
 <!--END_SECTION:quote-->
 
 
