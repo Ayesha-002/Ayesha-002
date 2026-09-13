@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself. — Jon Kabat-Zinn"
+> "The wisest men follow their own direction. — Euripides"
 <!--END_SECTION:quote-->
 
 
