@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The wisest men follow their own direction. — Euripides"
+> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. — Nikola Tesla"
 <!--END_SECTION:quote-->
 
 
