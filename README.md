@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. — Nikola Tesla"
+> "Success is achieved and maintained by those who try and keep trying. — W. Clement Stone"
 <!--END_SECTION:quote-->
 
 
