@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Success is achieved and maintained by those who try and keep trying. — W. Clement Stone"
+> "The power of man has grown in every sphere, except over himself. — Winston Churchill"
 <!--END_SECTION:quote-->
 
 
