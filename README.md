@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The power of man has grown in every sphere, except over himself. — Winston Churchill"
+> "Whatever you do in life, surround yourself with smart people who'll argue with you. — John Wooden"
 <!--END_SECTION:quote-->
 
 
