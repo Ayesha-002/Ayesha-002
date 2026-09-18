@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Whatever you do in life, surround yourself with smart people who'll argue with you. — John Wooden"
+> "The successful warrior is the average man, with laser-like focus. — Bruce Lee"
 <!--END_SECTION:quote-->
 
 
