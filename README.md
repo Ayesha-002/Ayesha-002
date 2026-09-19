@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The successful warrior is the average man, with laser-like focus. — Bruce Lee"
+> "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties. — Harry S. Truman"
 <!--END_SECTION:quote-->
 
 
