@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties. — Harry S. Truman"
+> "All human beings can alter their lives by altering their attitudes. — Andrew Carnegie"
 <!--END_SECTION:quote-->
 
 
