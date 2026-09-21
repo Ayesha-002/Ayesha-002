@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "All human beings can alter their lives by altering their attitudes. — Andrew Carnegie"
+> "Silence is sometimes the best answer. — Dalai Lama"
 <!--END_SECTION:quote-->
 
 
