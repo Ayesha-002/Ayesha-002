@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Silence is sometimes the best answer. — Dalai Lama"
+> "Winners never quit and quitters never win. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
