@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Winners never quit and quitters never win. — Vince Lombardi"
+> "Our stories may be singular, but our destination is shared. — Barack Obama"
 <!--END_SECTION:quote-->
 
 
