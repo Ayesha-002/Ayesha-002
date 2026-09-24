@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Our stories may be singular, but our destination is shared. — Barack Obama"
+> "Nothing has more strength than dire necessity. — Euripides"
 <!--END_SECTION:quote-->
 
 
