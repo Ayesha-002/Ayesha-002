@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Nothing has more strength than dire necessity. — Euripides"
+> "Peace is letting it be. Letting life flow, letting emotions flow through you. — Kamal Ravikant"
 <!--END_SECTION:quote-->
 
 
