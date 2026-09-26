@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Peace is letting it be. Letting life flow, letting emotions flow through you. — Kamal Ravikant"
+> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. — Nikola Tesla"
 <!--END_SECTION:quote-->
 
 
