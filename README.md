@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. — Nikola Tesla"
+> "Great minds are always feared by lesser minds. — Dan Brown"
 <!--END_SECTION:quote-->
 
 
