@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Great minds are always feared by lesser minds. — Dan Brown"
+> "Life becomes easier and more beautiful when we can see the good in other people. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
