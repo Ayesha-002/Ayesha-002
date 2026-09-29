@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life becomes easier and more beautiful when we can see the good in other people. — Roy T. Bennett"
+> "The measure of who we are is what we do with what we have. — Vince Lombardi"
 <!--END_SECTION:quote-->
 
 
