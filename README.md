@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The measure of who we are is what we do with what we have. — Vince Lombardi"
+> "To earn more you must learn more. — Brian Tracy"
 <!--END_SECTION:quote-->
 
 
