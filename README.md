@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To earn more you must learn more. — Brian Tracy"
+> ""
 <!--END_SECTION:quote-->
 
 
