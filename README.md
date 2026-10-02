@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> ""
+> "It's the unknown we fear when we look upon death and darkness, nothing more. — Albus Dumbledore"
 <!--END_SECTION:quote-->
 
 
