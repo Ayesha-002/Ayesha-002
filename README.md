@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's the unknown we fear when we look upon death and darkness, nothing more. — Albus Dumbledore"
+> "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. — Lao Tzu"
 <!--END_SECTION:quote-->
 
 
