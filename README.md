@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. — Lao Tzu"
+> "You get paid in direct proportion to the difficulty of problems you solve. — Elon Musk"
 <!--END_SECTION:quote-->
 
 
