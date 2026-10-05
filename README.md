@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You get paid in direct proportion to the difficulty of problems you solve. — Elon Musk"
+> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. — Steve Jobs"
 <!--END_SECTION:quote-->
 
 
