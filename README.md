@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. — Steve Jobs"
+> "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. — Kamal Ravikant"
 <!--END_SECTION:quote-->
 
 
