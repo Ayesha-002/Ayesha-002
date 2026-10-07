@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. — Kamal Ravikant"
+> "Do something worth remembering. — Elvis Presley"
 <!--END_SECTION:quote-->
 
 
