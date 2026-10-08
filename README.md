@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Do something worth remembering. — Elvis Presley"
+> "If you quit once it becomes a habit. — Michael Jordan"
 <!--END_SECTION:quote-->
 
 
