@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you quit once it becomes a habit. — Michael Jordan"
+> "Our greatest fears lie in anticipation. — Honore de Balzac"
 <!--END_SECTION:quote-->
 
 
