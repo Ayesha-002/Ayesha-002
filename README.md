@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Our greatest fears lie in anticipation. — Honore de Balzac"
+> "The big thing is to make a winning effort. I'm not obsessed with wins. — Morgan Wootten"
 <!--END_SECTION:quote-->
 
 
