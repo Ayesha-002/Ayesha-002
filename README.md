@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The big thing is to make a winning effort. I'm not obsessed with wins. — Morgan Wootten"
+> "Heal the past, live the present, dream the future. — Mary Engelbreit"
 <!--END_SECTION:quote-->
 
 
