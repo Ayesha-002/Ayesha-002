@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Heal the past, live the present, dream the future. — Mary Engelbreit"
+> "Waste not fresh tears over old griefs. — Euripides"
 <!--END_SECTION:quote-->
 
 
