@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu"
+> "He who violates another's honor loses his own. — Publilius Syrus"
 <!--END_SECTION:quote-->
 
 
