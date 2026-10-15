@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "He who violates another's honor loses his own. — Publilius Syrus"
+> "It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. — Alfred Adler"
 <!--END_SECTION:quote-->
 
 
