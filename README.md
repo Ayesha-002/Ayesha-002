@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. — Alfred Adler"
+> "The truth is rarely pure and never simple. — Oscar Wilde"
 <!--END_SECTION:quote-->
 
 
