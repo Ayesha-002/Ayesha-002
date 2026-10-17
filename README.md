@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The truth is rarely pure and never simple. — Oscar Wilde"
+> "Failure is feedback. Learn from it and move on. — Jack Butcher"
 <!--END_SECTION:quote-->
 
 
