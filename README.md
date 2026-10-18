@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Failure is feedback. Learn from it and move on. — Jack Butcher"
+> "Stop being tormented by everyone else's reaction to you. — Joyce Meyer"
 <!--END_SECTION:quote-->
 
 
