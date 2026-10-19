@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Stop being tormented by everyone else's reaction to you. — Joyce Meyer"
+> "The journey, not the destination matters. — T.S. Eliot"
 <!--END_SECTION:quote-->
 
 
