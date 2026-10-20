@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The journey, not the destination matters. — T.S. Eliot"
+> "You are the only problem you will ever have and you are the only solution. — Bob Proctor"
 <!--END_SECTION:quote-->
 
 
