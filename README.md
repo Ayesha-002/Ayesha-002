@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "You are the only problem you will ever have and you are the only solution. — Bob Proctor"
+> "When you have to make a choice and don't make it, that is in itself a choice. — William James"
 <!--END_SECTION:quote-->
 
 
