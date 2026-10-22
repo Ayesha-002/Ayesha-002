@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you have to make a choice and don't make it, that is in itself a choice. — William James"
+> "Life would be tragic if it weren't funny. — Stephen Hawking"
 <!--END_SECTION:quote-->
 
 
