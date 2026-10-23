@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Life would be tragic if it weren't funny. — Stephen Hawking"
+> "Storms don't last forever. — Unknown"
 <!--END_SECTION:quote-->
 
 
