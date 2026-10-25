@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you don't find the time, if you don't do the work, you don't get the results. — Arnold Schwarzenegger"
+> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. — Denis Waitley"
 <!--END_SECTION:quote-->
 
 
