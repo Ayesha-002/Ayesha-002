@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. — Denis Waitley"
+> "Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj"
 <!--END_SECTION:quote-->
 
 
