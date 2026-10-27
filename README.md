@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj"
+> "If you can't argue both sides, you can't argue. — Jack Butcher"
 <!--END_SECTION:quote-->
 
 
