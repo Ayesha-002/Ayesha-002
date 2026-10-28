@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you can't argue both sides, you can't argue. — Jack Butcher"
+> "Looking after my health today gives me a better hope for tomorrow. — Anne Wilson Schaef"
 <!--END_SECTION:quote-->
 
 
