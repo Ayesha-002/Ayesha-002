@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Looking after my health today gives me a better hope for tomorrow. — Anne Wilson Schaef"
+> "Never give way to laziness. — Bhagavad Gita"
 <!--END_SECTION:quote-->
 
 
