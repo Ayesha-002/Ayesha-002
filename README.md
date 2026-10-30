@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Never give way to laziness. — Bhagavad Gita"
+> "One's best success comes after their greatest disappointments. — Henry Ward Beecher"
 <!--END_SECTION:quote-->
 
 
