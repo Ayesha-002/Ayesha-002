@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "One's best success comes after their greatest disappointments. — Henry Ward Beecher"
+> "Art is to console those who are broken by life. — Vincent van Gogh"
 <!--END_SECTION:quote-->
 
 
