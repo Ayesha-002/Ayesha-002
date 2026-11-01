@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Art is to console those who are broken by life. — Vincent van Gogh"
+> "Fishing is much more than fish. — Herbert Hoover"
 <!--END_SECTION:quote-->
 
 
