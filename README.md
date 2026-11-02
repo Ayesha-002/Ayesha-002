@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Fishing is much more than fish. — Herbert Hoover"
+> "Art is the signature of civilizations. — Beverly Sills"
 <!--END_SECTION:quote-->
 
 
