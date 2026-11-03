@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Art is the signature of civilizations. — Beverly Sills"
+> "Whenever you do a thing, act as if all the world were watching. — Thomas Jefferson"
 <!--END_SECTION:quote-->
 
 
