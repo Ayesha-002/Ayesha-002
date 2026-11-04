@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Whenever you do a thing, act as if all the world were watching. — Thomas Jefferson"
+> "When you judge another, you do not define them, you define yourself — Wayne Dyer"
 <!--END_SECTION:quote-->
 
 
