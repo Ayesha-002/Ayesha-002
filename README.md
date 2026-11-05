@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you judge another, you do not define them, you define yourself — Wayne Dyer"
+> "There is no path to Peace. Peace is the path. — Dan Millman"
 <!--END_SECTION:quote-->
 
 
