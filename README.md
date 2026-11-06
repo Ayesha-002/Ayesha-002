@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "There is no path to Peace. Peace is the path. — Dan Millman"
+> "If you want peace, you won't get it with violence. — John Lennon"
 <!--END_SECTION:quote-->
 
 
