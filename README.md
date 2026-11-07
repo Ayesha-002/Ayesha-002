@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you want peace, you won't get it with violence. — John Lennon"
+> "When you repeat a mistake, it is not a mistake anymore: it is a decision. — Paulo Coelho"
 <!--END_SECTION:quote-->
 
 
