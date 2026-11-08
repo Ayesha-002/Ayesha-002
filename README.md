@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you repeat a mistake, it is not a mistake anymore: it is a decision. — Paulo Coelho"
+> "Acknowledging the good that you already have in your life is the foundation for all abundance. — Eckhart Tolle"
 <!--END_SECTION:quote-->
 
 
