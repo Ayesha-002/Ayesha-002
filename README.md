@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Absence makes the heart grow fonder. — Eleanor Roosevelt"
+> "As you think, you travel, and as you love, you attract. — James Allen"
 <!--END_SECTION:quote-->
 
 
