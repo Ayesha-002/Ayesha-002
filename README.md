@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "As you think, you travel, and as you love, you attract. — James Allen"
+> "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward. — Roy T. Bennett"
 <!--END_SECTION:quote-->
 
 
