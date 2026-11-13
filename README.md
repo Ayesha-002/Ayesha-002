@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> ""
+> "Words used to attract the dull of wit are not to be relied on. — Huang Po"
 <!--END_SECTION:quote-->
 
 
