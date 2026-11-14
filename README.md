@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Words used to attract the dull of wit are not to be relied on. — Huang Po"
+> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence. — Aristotle"
 <!--END_SECTION:quote-->
 
 
