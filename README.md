@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence. — Aristotle"
+> "On the other side of the clouds is a bright blue sky. — Unknown"
 <!--END_SECTION:quote-->
 
 
