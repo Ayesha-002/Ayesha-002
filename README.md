@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "On the other side of the clouds is a bright blue sky. — Unknown"
+> "If you do not conquer self, you will be conquered by self. — Napoleon Hill"
 <!--END_SECTION:quote-->
 
 
