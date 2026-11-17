@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you do not conquer self, you will be conquered by self. — Napoleon Hill"
+> "When you are tempted to give up, your breakthrough is probably just around the corner. — Joyce Meyer"
 <!--END_SECTION:quote-->
 
 
