@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you are tempted to give up, your breakthrough is probably just around the corner. — Joyce Meyer"
+> "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. — Johann Wolfgang von Goethe"
 <!--END_SECTION:quote-->
 
 
