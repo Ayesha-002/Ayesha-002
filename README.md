@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. — Johann Wolfgang von Goethe"
+> "It doesn't matter where you are, you are nowhere compared to where you can go. — Bob Proctor"
 <!--END_SECTION:quote-->
 
 
