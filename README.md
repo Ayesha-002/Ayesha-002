@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> ""
+> "We think too much and feel too little. — Charlie Chaplin"
 <!--END_SECTION:quote-->
 
 
