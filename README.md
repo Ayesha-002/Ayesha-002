@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "We think too much and feel too little. — Charlie Chaplin"
+> "If you do not conquer self, you will be conquered by self. — Napoleon Hill"
 <!--END_SECTION:quote-->
 
 
