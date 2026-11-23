@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "If you do not conquer self, you will be conquered by self. — Napoleon Hill"
+> "The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. — Tony Robbins"
 <!--END_SECTION:quote-->
 
 
