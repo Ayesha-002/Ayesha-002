@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. — Tony Robbins"
+> "When you consider things like the stars, our affairs don't seem to matter very much, do they? — Virginia Woolf"
 <!--END_SECTION:quote-->
 
 
