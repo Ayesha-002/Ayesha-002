@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "When you consider things like the stars, our affairs don't seem to matter very much, do they? — Virginia Woolf"
+> "It is not the knowing that is difficult, but the doing. — Chinese Proverb"
 <!--END_SECTION:quote-->
 
 
