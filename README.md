@@ -60,7 +60,7 @@
 
 ### 😂 Random Dev Quote
 <!--START_SECTION:quote-->
-> "It's not whether you get knocked down, its whether you get back up. — Vince Lombardi"
+> "Your greatest asset is your earning ability. Your greatest resource is your time. — Brian Tracy"
 <!--END_SECTION:quote-->
 
 
